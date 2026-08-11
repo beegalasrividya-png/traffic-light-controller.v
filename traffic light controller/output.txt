@@ -1,0 +1,9 @@
+Traffic Light Controller Output
+
+Time = 0  | Red = 1 | Yellow = 0 | Green = 0
+Time = 15 | Red = 0 | Yellow = 0 | Green = 1
+Time = 25 | Red = 0 | Yellow = 1 | Green = 0
+Time = 35 | Red = 1 | Yellow = 0 | Green = 0
+Time = 45 | Red = 0 | Yellow = 0 | Green = 1
+Time = 55 | Red = 0 | Yellow = 1 | Green = 0
+Time = 65 | Red = 1 | Yellow = 0 | Green = 0
